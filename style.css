@@ -1,0 +1,49 @@
+:root{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+[id="mainTitle"]{
+    font-weight: 900;
+    font-size: 89 px;
+    line-height: 79 px;
+    color: #ffb300;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+[class="autor"]{
+    font-size: 21 px;
+    font-weight: bold;
+    color: black;
+    text-align: right;
+}
+
+[class="definition"]{
+    font-size: 21 px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+
+[class="horizontal"]{
+    word-spacing: 34 px;
+}
+
+[class="subtitle"]{
+    font-size: 34 px;
+    color: #ffb300;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+[class="listas"]{
+    font-size: 21 px;
+    font-weight: 600;
+    line-height: 21px*1.61;
+}
+
+[class="LinkVoltar"]{
+    font-size: 21 px;
+    font-weight: 900;
+    color: #0037b3;
+}
